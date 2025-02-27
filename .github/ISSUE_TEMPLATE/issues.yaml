@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
        
-        ### NOTICE! If possible, please take a screenshot of your problem also and attach it to this issue-description
+        #### NOTICE! If possible, please take a screenshot of your problem also and attach it to this issue-description ####
 
   - type: input
     id: issue-description
