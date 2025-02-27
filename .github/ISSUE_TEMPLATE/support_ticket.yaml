@@ -5,6 +5,7 @@ body:
     attributes:
       value: |
         ## Please describe your issue and possible fixes that you have try already.
+        # If possible, please take a screenshot of your problem also and attach it to this issue-description
 
   - type: textarea
     id: issue-description
