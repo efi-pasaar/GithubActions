@@ -9,7 +9,7 @@ Please provide a clear and concise description of the issue.
 1. Navigate to your repository's issues blade
 2. Choose New Issue
 3. Choose Create simple issue, or you can create issue from the scratch
-4. Please, type your issue title, and ttype specific description from your problem. If possible, take a screenshot and attach it to your issue template also.
+4. Please, type your issue title, and type specific description from your problem. If possible, take a screenshot and attach it to your issue template also.
 
 NOTICE!
 
