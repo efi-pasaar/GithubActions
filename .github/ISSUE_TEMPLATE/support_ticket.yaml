@@ -1,26 +1,17 @@
-name: Support Ticket
-description: Submit a new support ticket for this project
-title: "[SUPPORT] "
-labels: [support]
-
+name: Leave your issue here
+description: Use this template for support tickets.
 body:
   - type: markdown
     attributes:
       value: |
-        ## Please describe your support request in detail.
-
-  - type: input
-    id: support-ticket-title
-    attributes:
-      label: Support Ticket Title
-      placeholder: Enter the title of your support request
+        ## Please describe your issue and possible fixes that you have try already.
 
   - type: textarea
-    id: support-ticket-description
+    id: issue-description
     attributes:
-      label: Support Ticket Description
-      description: Please describe the issue or request in detail
-      placeholder: Describe the issue or request...
+      label: Issue Description
+      description: Describe the issue
+      placeholder: Please, describe the issue...
 
   - type: checkboxes
     id: additional-info
