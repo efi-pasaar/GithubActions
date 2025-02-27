@@ -1,5 +1,5 @@
-name: Leave your issue here
-description: Use this template for support tickets.
+name: Create issue
+description: Use this template to describe your issue and possible fixes that you have try already.
 body:
   - type: markdown
     attributes:
