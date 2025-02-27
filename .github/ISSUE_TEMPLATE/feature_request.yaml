@@ -1,0 +1,33 @@
+name: Feature Request
+description: Suggest a new feature for this project
+title: "[FEATURE] "
+labels: feature
+assignees: ''
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Please describe your feature request in detail.
+
+  - type: input
+    id: feature-name
+    attributes:
+      label: Feature Name
+      placeholder: Enter the name of the feature
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Please describe the feature in detail
+      placeholder: Describe the feature...
+
+  - type: checkbox
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Check if you have additional information to provide
+      options:
+        - label: I have additional information
+          value: yes
