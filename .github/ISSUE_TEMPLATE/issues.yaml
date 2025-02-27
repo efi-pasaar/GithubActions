@@ -8,9 +8,8 @@ body:
        
         #### NOTICE! If possible, please take a screenshot of your problem also and attach it to this issue-description ####
 
-  - type: input
+  - type: textarea
     id: issue-description
     attributes:
-      label: Issue Description
-      description: Describe the issue
+      label: Please, describe the issue
       placeholder: Please, describe the issue...
