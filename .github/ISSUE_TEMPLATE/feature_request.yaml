@@ -1,26 +1,26 @@
-name: Feature Request
-description: Suggest a new feature for this project
-title: "[FEATURE] "
-labels: [feature]
+name: Support Ticket
+description: Submit a new support ticket for this project
+title: "[SUPPORT] "
+labels: [support]
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Please describe your feature request in detail.
+        ## Please describe your support request in detail.
 
   - type: input
-    id: feature-name
+    id: support-ticket-title
     attributes:
-      label: Feature Name
-      placeholder: Enter the name of the feature
+      label: Support Ticket Title
+      placeholder: Enter the title of your support request
 
   - type: textarea
-    id: feature-description
+    id: support-ticket-description
     attributes:
-      label: Feature Description
-      description: Please describe the feature in detail
-      placeholder: Describe the feature...
+      label: Support Ticket Description
+      description: Please describe the issue or request in detail
+      placeholder: Describe the issue or request...
 
   - type: checkboxes
     id: additional-info
