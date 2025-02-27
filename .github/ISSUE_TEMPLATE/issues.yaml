@@ -1,4 +1,4 @@
-name: Create issue
+name: Create simple issue
 description: Use this template to describe your issue and possible fixes that you have try already.
 body:
   - type: markdown
