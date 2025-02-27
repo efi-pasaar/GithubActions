@@ -4,8 +4,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Please describe your issue and possible fixes that you have try already.
-        # If possible, please take a screenshot of your problem also and attach it to this issue-description
+        ## Add a title for your issue
+        #### If possible, please take a screenshot of your problem also and attach it to this issue-description
 
   - type: textarea
     id: issue-description
@@ -13,11 +13,3 @@ body:
       label: Issue Description
       description: Describe the issue
       placeholder: Please, describe the issue...
-
-  - type: checkboxes
-    id: additional-info
-    attributes:
-      label: Additional Information
-      description: Check if you have additional information to provide
-      options:
-        - label: I have additional information
