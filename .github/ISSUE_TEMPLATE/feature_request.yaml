@@ -1,8 +1,7 @@
 name: Feature Request
 description: Suggest a new feature for this project
 title: "[FEATURE] "
-labels: feature
-assignees: ''
+labels: [feature]
 
 body:
   - type: markdown
@@ -23,11 +22,10 @@ body:
       description: Please describe the feature in detail
       placeholder: Describe the feature...
 
-  - type: checkbox
+  - type: checkboxes
     id: additional-info
     attributes:
       label: Additional Information
       description: Check if you have additional information to provide
       options:
         - label: I have additional information
-          value: yes
