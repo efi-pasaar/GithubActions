@@ -36,5 +36,3 @@ When we receive a security bug report, we will:
 ## Security Updates
 
 Security updates will be released as part of our regular release cycle or as emergency patches depending on severity.
-
-PLEASE, secure your code.
