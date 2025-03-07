@@ -1,4 +1,3 @@
-# Create a simple issue template and choose assignees and labels
 name: Create simple issue
 description: Use this template to describe your issue and possible fixes that you have try already.
 body:
